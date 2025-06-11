@@ -94,3 +94,11 @@ top_match = (
 
 st.markdown("### 🏆 조건 만족률 TOP 10 포켓몬")
 st.dataframe(top_match.style.format({"조건_만족률": "{:.0%}"}))
+
+
+top1 = top_match.iloc[0]
+top1_name_en = top1["Name"].lower().replace(" ", "-")  # 예: "Mr. Mime" -> "mr-mime"
+image_url = f"https://img.pokemondb.net/artwork/{top1_name_en}.jpg"
+
+st.markdown(f"### 🎉 조건 만족률 1위: **{top1['Name_KOR']} ({top1['Name']})**")
+st.image(image_url, caption=f"{top1['Name_KOR']} ({top1['Name']})", use_column_width=False)
