@@ -254,8 +254,8 @@
 250,Grovyle,Grass,,405,50,65,45,85,65,95,3,FALSE,나무돌이
 251,Sceptile,Grass,,530,70,85,65,105,85,120,3,FALSE,나무킹
 253,Torchic,Fire,,310,45,60,40,70,50,45,3,FALSE,아차모
-254,Combusken,Fire,Fighting,405,60,85,60,85,60,55,3,TRUE,영치코
-254,Blaziken,Fire,Fighting,530,80,120,70,110,70,80,3,TRUE,번치코
+254,Combusken,Fire,Fighting,405,60,85,60,85,60,55,3,FALSE,영치코
+254,Blaziken,Fire,Fighting,530,80,120,70,110,70,80,3,FALSE,번치코
 256,Mudkip,Water,,310,50,70,50,50,50,40,3,FALSE,물짱이
 257,Marshtomp,Water,Ground,405,70,85,70,60,70,50,3,FALSE,늪짱이
 257,Swampert,Water,Ground,535,100,110,90,85,90,60,3,FALSE,대짱이
