@@ -4,11 +4,8 @@ import pandas as pd
 # 데이터 로드
 df = pd.read_csv("Pokemon_translated.csv")
 
-if "Total" not in df.columns:
-    df["Total"] = (
-        df["HP"] + df["Attack"] + df["Defense"] +
-        df["Sp. Atk"] + df["Sp. Def"] + df["Speed"]
-    )
+# 공백 제거 및 컬럼명 정리
+df.columns = df.columns.str.strip()
 
 st.set_page_config(page_title="스탯 기반 포켓몬 추천기", layout="wide")
 st.title("🧬 스탯 기반 포켓몬 추천기")
@@ -73,7 +70,7 @@ st.markdown(f"### ✅ 조건을 **모두 만족**하는 포켓몬: {len(fully_ma
 st.dataframe(
     fully_matched[[
         "Name_KOR", "Name", "Type 1", "Type 2",
-        "HP", "Attack", "Defense", "Sp. Atk", "Sp. Def", "Speed", "Legendary"
+        "HP", "Attack", "Defense", "Sp. Atk", "Sp. Def", "Speed", "Legendary","Total"
     ]].sort_values(by="Total", ascending=False).reset_index(drop=True)
 )
 
