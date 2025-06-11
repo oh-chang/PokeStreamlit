@@ -4,6 +4,12 @@ import pandas as pd
 # 데이터 로드
 df = pd.read_csv("Pokemon_translated.csv")
 
+if "Total" not in df.columns:
+    df["Total"] = (
+        df["HP"] + df["Attack"] + df["Defense"] +
+        df["Sp. Atk"] + df["Sp. Def"] + df["Speed"]
+    )
+
 st.set_page_config(page_title="스탯 기반 포켓몬 추천기", layout="wide")
 st.title("🧬 스탯 기반 포켓몬 추천기")
 
