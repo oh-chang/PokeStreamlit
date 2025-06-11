@@ -378,43 +378,43 @@
 370,Regirock,Rock,,580,80,100,200,50,100,50,3,FALSE,레지락
 372,Regice,Ice,,580,80,50,100,100,200,50,3,FALSE,레지아이스
 373,Registeel,Steel,,580,80,75,150,75,150,50,3,FALSE,레지스틸
-373,Latias,Dragon,Psychic,600,80,80,90,110,130,110,3,FALSE,라티아스
-375,Latios,Dragon,Psychic,600,80,90,80,130,110,110,3,FALSE,라티오스
-376,Kyogre,Water,,670,100,100,90,150,140,90,3,FALSE,가이오가
-376,KyogrePrimal Kyogre,Water,,770,100,150,90,180,160,90,3,FALSE,원시가이오가
-377,Groudon,Ground,,670,100,150,140,100,90,90,3,FALSE,그란돈
-378,GroudonPrimal Groudon,Ground,Fire,770,100,180,160,150,90,90,3,FALSE,원시그란돈
-379,Rayquaza,Dragon,Flying,680,105,150,90,150,90,95,3,FALSE,레쿠쟈
-380,RayquazaMega Rayquaza,Dragon,Flying,780,105,180,100,180,100,115,3,FALSE,메가레쿠쟈
-380,Jirachi,Steel,Psychic,600,100,100,100,100,100,100,3,FALSE,지라치
-381,DeoxysNormal Forme,Psychic,,600,50,150,50,150,50,150,3,FALSE,테오키스(노말)
-381,DeoxysAttack Forme,Psychic,,600,50,180,20,180,20,150,3,FALSE,테오키스(공격)
-382,DeoxysDefense Forme,Psychic,,600,50,70,160,70,160,90,3,FALSE,테오키스(방어)
-382,DeoxysSpeed Forme,Psychic,,600,50,95,90,95,90,180,3,FALSE,테오키스(스피드)
+373,Latias,Dragon,Psychic,600,80,80,90,110,130,110,3,TRUE,라티아스
+375,Latios,Dragon,Psychic,600,80,90,80,130,110,110,3,TRUE,라티오스
+376,Kyogre,Water,,670,100,100,90,150,140,90,3,TRUE,가이오가
+376,KyogrePrimal Kyogre,Water,,770,100,150,90,180,160,90,3,TRUE,원시가이오가
+377,Groudon,Ground,,670,100,150,140,100,90,90,3,TRUE,그란돈
+378,GroudonPrimal Groudon,Ground,Fire,770,100,180,160,150,90,90,3,TRUE,원시그란돈
+379,Rayquaza,Dragon,Flying,680,105,150,90,150,90,95,3,TRUE,레쿠쟈
+380,RayquazaMega Rayquaza,Dragon,Flying,780,105,180,100,180,100,115,3,TRUE,메가레쿠쟈
+380,Jirachi,Steel,Psychic,600,100,100,100,100,100,100,3,TRUE,지라치
+381,DeoxysNormal Forme,Psychic,,600,50,150,50,150,50,150,3,TRUE,테오키스(노말)
+381,DeoxysAttack Forme,Psychic,,600,50,180,20,180,20,150,3,TRUE,테오키스(공격)
+382,DeoxysDefense Forme,Psychic,,600,50,70,160,70,160,90,3,TRUE,테오키스(방어)
+382,DeoxysSpeed Forme,Psychic,,600,50,95,90,95,90,180,3,TRUE,테오키스(스피드)
 383,Turtwig,Grass,,318,55,68,64,45,55,31,4,FALSE,모부기
 383,Grotle,Grass,,405,75,89,85,55,65,36,4,FALSE,수풀부기
 384,Torterra,Grass,Ground,525,95,109,105,75,85,56,4,FALSE,토대부기
 384,Chimchar,Fire,,309,44,58,44,58,44,61,4,FALSE,불꽃숭이
 385,Monferno,Fire,Fighting,405,64,78,52,78,52,81,4,FALSE,파이숭이
 386,Infernape,Fire,Fighting,534,76,104,71,104,71,108,4,FALSE,초염몽
-386,Piplup,Water,,314,53,51,53,61,56,40,4,TRUE,팽도리
-386,Prinplup,Water,,405,64,66,68,81,76,50,4,TRUE,팽태자
-386,Empoleon,Water,Steel,530,84,86,88,111,101,60,4,TRUE,엠페르트
-387,Starly,Normal,Flying,245,40,55,30,30,30,60,4,TRUE,찌르꼬
-388,Staravia,Normal,Flying,340,55,75,50,40,40,80,4,TRUE,찌르버드
-389,Staraptor,Normal,Flying,485,85,120,70,50,60,100,4,TRUE,찌르호크
-390,Bidoof,Normal,,250,59,45,40,35,40,31,4,TRUE,비버니
-391,Bibarel,Normal,Water,410,79,85,60,55,60,71,4,TRUE,비버통
-392,Kricketot,Bug,,194,37,25,41,25,41,25,4,TRUE,귀뚤뚜기
-393,Kricketune,Bug,,384,77,85,51,55,51,65,4,TRUE,귀뚤톡크
-394,Shinx,Electric,,263,45,65,34,40,34,45,4,TRUE,꼬링크
-395,Luxio,Electric,,363,60,85,49,60,49,60,4,TRUE,럭시오
-396,Luxray,Electric,,523,80,120,79,95,79,70,4,TRUE,렌트라
-397,Budew,Grass,Poison,280,40,30,35,50,70,55,4,TRUE,꼬몽울
-398,Roserade,Grass,Poison,515,60,70,65,125,105,90,4,TRUE,로즈레이드
-399,Cranidos,Rock,,350,67,125,40,30,30,58,4,TRUE,두개도스
-400,Rampardos,Rock,,495,97,165,60,65,50,58,4,TRUE,램펄드
-401,Shieldon,Rock,Steel,350,30,42,118,42,88,30,4,TRUE,방패톱스
+386,Piplup,Water,,314,53,51,53,61,56,40,4,FALSE,팽도리
+386,Prinplup,Water,,405,64,66,68,81,76,50,4,FALSE,팽태자
+386,Empoleon,Water,Steel,530,84,86,88,111,101,60,4,FALSE,엠페르트
+387,Starly,Normal,Flying,245,40,55,30,30,30,60,4,FALSE,찌르꼬
+388,Staravia,Normal,Flying,340,55,75,50,40,40,80,4,FALSE,찌르버드
+389,Staraptor,Normal,Flying,485,85,120,70,50,60,100,4,FALSE,찌르호크
+390,Bidoof,Normal,,250,59,45,40,35,40,31,4,FALSE,비버니
+391,Bibarel,Normal,Water,410,79,85,60,55,60,71,4,FALSE,비버통
+392,Kricketot,Bug,,194,37,25,41,25,41,25,4,FALSE,귀뚤뚜기
+393,Kricketune,Bug,,384,77,85,51,55,51,65,4,FALSE,귀뚤톡크
+394,Shinx,Electric,,263,45,65,34,40,34,45,4,FALSE,꼬링크
+395,Luxio,Electric,,363,60,85,49,60,49,60,4,FALSE,럭시오
+396,Luxray,Electric,,523,80,120,79,95,79,70,4,FALSE,렌트라
+397,Budew,Grass,Poison,280,40,30,35,50,70,55,4,FALSE,꼬몽울
+398,Roserade,Grass,Poison,515,60,70,65,125,105,90,4,FALSE,로즈레이드
+399,Cranidos,Rock,,350,67,125,40,30,30,58,4,FALSE,두개도스
+400,Rampardos,Rock,,495,97,165,60,65,50,58,4,FALSE,램펄드
+401,Shieldon,Rock,Steel,350,30,42,118,42,88,30,4,FALSE,방패톱스
 402,Bastiodon,Rock,Steel,495,60,52,168,47,138,30,4,FALSE,바리톱스
 403,Burmy,Bug,,224,40,29,45,29,45,36,4,FALSE,도롱충이
 404,WormadamPlant Cloak,Bug,Grass,424,60,59,85,79,105,36,4,FALSE,도롱마담
@@ -519,23 +519,23 @@
 493,Samurott,Water,,528,95,100,85,108,70,70,5,FALSE,대검귀
 494,Patrat,Normal,,255,45,55,39,35,39,42,5,FALSE,보르쥐
 495,Watchog,Normal,,420,60,85,69,60,69,77,5,FALSE,보르그
-496,Lillipup,Normal,,275,45,60,45,25,45,55,5,TRUE,요테리
-497,Herdier,Normal,,370,65,80,65,35,65,60,5,TRUE,하데리어
-498,Stoutland,Normal,,500,85,110,90,45,90,80,5,TRUE,바랜드
-499,Purrloin,Dark,,281,41,50,37,50,37,66,5,TRUE,쌔비냥
-500,Liepard,Dark,,446,64,88,50,88,50,106,5,TRUE,레파르다스
-501,Pansage,Grass,,316,50,53,48,53,48,64,5,TRUE,야나프
-502,Simisage,Grass,,498,75,98,63,98,63,101,5,TRUE,야나키
-503,Pansear,Fire,,316,50,53,48,53,48,64,5,TRUE,바오프
-504,Simisear,Fire,,498,75,98,63,98,63,101,5,TRUE,바오키
+496,Lillipup,Normal,,275,45,60,45,25,45,55,5,FALSE,요테리
+497,Herdier,Normal,,370,65,80,65,35,65,60,5,FALSE,하데리어
+498,Stoutland,Normal,,500,85,110,90,45,90,80,5,FALSE,바랜드
+499,Purrloin,Dark,,281,41,50,37,50,37,66,5,FALSE,쌔비냥
+500,Liepard,Dark,,446,64,88,50,88,50,106,5,FALSE,레파르다스
+501,Pansage,Grass,,316,50,53,48,53,48,64,5,FALSE,야나프
+502,Simisage,Grass,,498,75,98,63,98,63,101,5,FALSE,야나키
+503,Pansear,Fire,,316,50,53,48,53,48,64,5,FALSE,바오프
+504,Simisear,Fire,,498,75,98,63,98,63,101,5,FALSE,바오키
 505,Panpour,Water,,316,50,53,48,53,48,64,5,FALSE,앗차프
 506,Simipour,Water,,498,75,98,63,98,63,101,5,FALSE,앗차키
 507,Munna,Psychic,,292,76,25,45,67,55,24,5,FALSE,몽나
-508,Musharna,Psychic,,487,116,55,85,107,95,29,5,TRUE,몽얌나
-509,Pidove,Normal,Flying,264,50,55,50,36,30,43,5,TRUE,콩둘기
-510,Tranquill,Normal,Flying,358,62,77,62,50,42,65,5,TRUE,유토브
-511,Unfezant,Normal,Flying,488,80,115,80,65,55,93,5,TRUE,켄호로우
-512,Blitzle,Electric,,295,45,60,32,50,32,76,5,TRUE,줄뮤마
+508,Musharna,Psychic,,487,116,55,85,107,95,29,5,FALSE,몽얌나
+509,Pidove,Normal,Flying,264,50,55,50,36,30,43,5,FALSE,콩둘기
+510,Tranquill,Normal,Flying,358,62,77,62,50,42,65,5,FALSE,유토브
+511,Unfezant,Normal,Flying,488,80,115,80,65,55,93,5,FALSE,켄호로우
+512,Blitzle,Electric,,295,45,60,32,50,32,76,5,FALSE,줄뮤마
 513,Zebstrika,Electric,,497,75,100,63,80,63,116,5,FALSE,제브라이카
 514,Roggenrola,Rock,,280,55,75,85,25,25,15,5,FALSE,단굴
 515,Boldore,Rock,,390,70,105,105,50,40,20,5,FALSE,암트르
