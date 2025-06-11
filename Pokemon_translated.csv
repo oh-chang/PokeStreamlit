@@ -387,10 +387,10 @@
 379,Rayquaza,Dragon,Flying,680,105,150,90,150,90,95,3,TRUE,레쿠쟈
 380,RayquazaMega Rayquaza,Dragon,Flying,780,105,180,100,180,100,115,3,TRUE,메가레쿠쟈
 380,Jirachi,Steel,Psychic,600,100,100,100,100,100,100,3,TRUE,지라치
-381,DeoxysNormal Forme,Psychic,,600,50,150,50,150,50,150,3,TRUE,테오키스(노말)
-381,DeoxysAttack Forme,Psychic,,600,50,180,20,180,20,150,3,TRUE,테오키스(공격)
-382,DeoxysDefense Forme,Psychic,,600,50,70,160,70,160,90,3,TRUE,테오키스(방어)
-382,DeoxysSpeed Forme,Psychic,,600,50,95,90,95,90,180,3,TRUE,테오키스(스피드)
+381,Deoxys,Psychic,,600,50,150,50,150,50,150,3,TRUE,테오키스(노말)
+381,Deoxys-attack,Psychic,,600,50,180,20,180,20,150,3,TRUE,테오키스(공격)
+382,Deoxys-defense,Psychic,,600,50,70,160,70,160,90,3,TRUE,테오키스(방어)
+382,Deoxys-speed,Psychic,,600,50,95,90,95,90,180,3,TRUE,테오키스(스피드)
 383,Turtwig,Grass,,318,55,68,64,45,55,31,4,FALSE,모부기
 383,Grotle,Grass,,405,75,89,85,55,65,36,4,FALSE,수풀부기
 384,Torterra,Grass,Ground,525,95,109,105,75,85,56,4,FALSE,토대부기
@@ -498,14 +498,14 @@
 479,Palkia,Water,Dragon,680,90,120,100,150,120,100,4,TRUE,펄기아
 479,Heatran,Fire,Steel,600,91,90,106,130,106,77,4,TRUE,히드런
 479,Regigigas,Normal,,670,110,160,110,80,110,100,4,TRUE,레지기가스
-479,GiratinaAltered Forme,Ghost,Dragon,680,150,100,120,100,120,90,4,TRUE,기라티나(어나더폼)
-479,GiratinaOrigin Forme,Ghost,Dragon,680,150,120,100,120,100,90,4,TRUE,기라티나(오리진폼)
+479,Giratina-Altered,Ghost,Dragon,680,150,100,120,100,120,90,4,TRUE,기라티나(어나더폼)
+479,Giratina-Origin,Ghost,Dragon,680,150,120,100,120,100,90,4,TRUE,기라티나(오리진폼)
 479,Cresselia,Psychic,,600,120,70,120,75,130,85,4,TRUE,크레세리아
 480,Phione,Water,,480,80,80,80,80,80,80,4,TRUE,피오네
 481,Manaphy,Water,,600,100,100,100,100,100,100,4,TRUE,마나피
 482,Darkrai,Dark,,600,70,90,90,135,90,125,4,TRUE,다크라이
-483,ShayminLand Forme,Grass,,600,100,100,100,100,100,100,4,TRUE,쉐이미(랜드폼)
-484,ShayminSky Forme,Grass,Flying,600,100,103,75,120,75,127,4,TRUE,쉐이미(스카이폼)
+483,Shaymin,Grass,,600,100,100,100,100,100,100,4,TRUE,쉐이미(랜드폼)
+484,Shaymin,Grass,Flying,600,100,103,75,120,75,127,4,TRUE,쉐이미(스카이폼)
 485,Arceus,Normal,,720,120,120,120,120,120,120,4,TRUE,아르세우스
 486,Victini,Psychic,Fire,600,100,100,100,100,100,100,5,TRUE,비크티니
 487,Snivy,Grass,,308,45,45,55,45,55,63,5,FALSE,주리비얀
@@ -654,21 +654,21 @@
 627,Cobalion,Steel,Fighting,580,91,90,129,90,72,108,5,TRUE,코바르온
 628,Terrakion,Rock,Fighting,580,91,129,90,72,90,108,5,TRUE,테라키온
 629,Virizion,Grass,Fighting,580,91,90,72,90,129,108,5,TRUE,비리디온
-630,TornadusIncarnate Forme,Flying,,580,79,115,70,125,80,111,5,TRUE,토네로스(화신)
-631,TornadusTherian Forme,Flying,,580,79,100,80,110,90,121,5,TRUE,토네로스(영물)
-632,ThundurusIncarnate Forme,Electric,Flying,580,79,115,70,125,80,111,5,TRUE,볼트로스(화신)
-633,ThundurusTherian Forme,Electric,Flying,580,79,105,70,145,80,101,5,TRUE,볼트로스(영물)
+630,Tornadus,Flying,,580,79,115,70,125,80,111,5,TRUE,토네로스(화신)
+631,Tornadus,Flying,,580,79,100,80,110,90,121,5,TRUE,토네로스(영물)
+632,Thundurus,Electric,Flying,580,79,115,70,125,80,111,5,TRUE,볼트로스(화신)
+633,Thundurus,Electric,Flying,580,79,105,70,145,80,101,5,TRUE,볼트로스(영물)
 634,Reshiram,Dragon,Fire,680,100,120,100,150,120,90,5,TRUE,레시라무
 635,Zekrom,Dragon,Electric,680,100,150,120,120,100,90,5,TRUE,제크로무
-636,LandorusIncarnate Forme,Ground,Flying,600,89,125,90,115,80,101,5,TRUE,랜드로스(화신)
-637,LandorusTherian Forme,Ground,Flying,600,89,145,90,105,80,91,5,TRUE,랜드로스(영물)
+636,Landorus,Ground,Flying,600,89,125,90,115,80,101,5,TRUE,랜드로스(화신)
+637,Landorus,Ground,Flying,600,89,145,90,105,80,91,5,TRUE,랜드로스(영물)
 638,Kyurem,Dragon,Ice,660,125,130,90,130,90,95,5,TRUE,큐레무
-639,KyuremBlack Kyurem,Dragon,Ice,700,125,170,100,120,90,95,5,TRUE,블랙큐레무
-640,KyuremWhite Kyurem,Dragon,Ice,700,125,120,90,170,100,95,5,TRUE,화이트큐레무
-641,KeldeoOrdinary Forme,Water,Fighting,580,91,72,90,129,90,108,5,TRUE,케르디오
-641,KeldeoResolute Forme,Water,Fighting,580,91,72,90,129,90,108,5,TRUE,케르디오(각오의모습)
-642,MeloettaAria Forme,Normal,Psychic,600,100,77,77,128,128,90,5,TRUE,메로엣타(보이스)
-642,MeloettaPirouette Forme,Normal,Fighting,600,100,128,90,77,77,128,5,TRUE,메로엣타(스텝)
+639,Kyurem-white,Dragon,Ice,700,125,170,100,120,90,95,5,TRUE,블랙큐레무
+640,Kyurem-black,Dragon,Ice,700,125,120,90,170,100,95,5,TRUE,화이트큐레무
+641,Keldeo-Ordinary,Water,Fighting,580,91,72,90,129,90,108,5,TRUE,케르디오
+641,Keldeo-Resolute,Water,Fighting,580,91,72,90,129,90,108,5,TRUE,케르디오(각오의모습)
+642,Meloetta-Aria,Normal,Psychic,600,100,77,77,128,128,90,5,TRUE,메로엣타(보이스)
+642,Meloetta-Pirouette,Normal,Fighting,600,100,128,90,77,77,128,5,TRUE,메로엣타(스텝)
 643,Genesect,Bug,Steel,600,71,120,95,120,95,99,5,TRUE,게노세크트
 644,Chespin,Grass,,313,56,61,65,48,45,38,6,FALSE,도치마론
 645,Quilladin,Grass,,405,61,78,95,56,58,57,6,FALSE,도치보구
@@ -701,8 +701,8 @@
 667,MeowsticMale,Psychic,,466,74,48,76,83,81,104,6,FALSE,냐오닉스
 668,Honedge,Steel,Ghost,325,45,80,100,35,37,28,6,FALSE,단칼빙
 669,Doublade,Steel,Ghost,448,59,110,150,45,49,35,6,FALSE,쌍검킬
-670,AegislashBlade Forme,Steel,Ghost,520,60,150,50,150,50,60,6,FALSE,킬가르도(블레이드)
-671,AegislashShield Forme,Steel,Ghost,520,60,50,150,50,150,60,6,FALSE,킬가르도(실드)
+670,Aegislash-Blade,Steel,Ghost,520,60,150,50,150,50,60,6,FALSE,킬가르도(블레이드)
+671,Aegislash-shield,Steel,Ghost,520,60,50,150,50,150,60,6,FALSE,킬가르도(실드)
 672,Spritzee,Fairy,,341,78,52,60,63,65,23,6,FALSE,슈쁘
 673,Aromatisse,Fairy,,462,101,72,72,99,89,29,6,FALSE,프레프티르
 674,Swirlix,Fairy,,341,62,48,66,59,57,49,6,FALSE,나룸퍼프
@@ -747,6 +747,6 @@
 710,Yveltal,Dark,Flying,680,126,131,95,131,98,99,6,TRUE,이벨타르
 710,Zygarde50% Forme,Dragon,Ground,600,108,100,121,81,95,95,6,TRUE,지가르데
 710,Diancie,Rock,Fairy,600,50,100,150,100,150,50,6,TRUE,디안시
-711,HoopaHoopa Confined,Psychic,Ghost,600,80,110,60,150,130,70,6,TRUE,후파(굴레에 빠진 모습)
-711,HoopaHoopa Unbound,Psychic,Dark,680,80,160,60,170,130,80,6,TRUE,후파(굴레를 벗어난 모습)
+711,Hoopa-Confined,Psychic,Ghost,600,80,110,60,150,130,70,6,TRUE,후파(굴레에 빠진 모습)
+711,Hoopa-Unbound,Psychic,Dark,680,80,160,60,170,130,80,6,TRUE,후파(굴레를 벗어난 모습)
 711,Volcanion,Fire,Water,600,80,110,120,130,90,70,6,TRUE,볼케니온
